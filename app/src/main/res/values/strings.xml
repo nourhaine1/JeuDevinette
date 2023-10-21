@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JeuDevinette</string>
+    <string name="bravo">Bravo !!!</string>
+    <string name="inf">Le nombre est inférieur  de celui qui nous avons </string>
+    <string name="sup">Le nombre est supérieur  de celui qui nous avons </string>
+    <string name="back">Retour à la page d acceuil </string>
+    <string name="hist">Historique </string>
+    <string name="valider">Press here! </string>
+
+    <string name="indication">  Vous devez penser le nombre ! vous avez la possibilité de jouer plus qu une fois</string>
+</resources>
